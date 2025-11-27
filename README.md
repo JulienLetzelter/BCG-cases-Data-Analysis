@@ -2,7 +2,7 @@
 
 ## Team 10
 
-Gaspard Cassassolles, Hamza El Alami, Matéo Lefebvre, Jérémy Ofer, and Julien Letzelter
+Gaspard Cassassolles, Hamza Berqoq El Alami, Matéo Lefebvre, Jérémy Ofer, and Julien Letzelter
 
 Analysis and prediction of barley yield in France using climate and geographical data.
 
